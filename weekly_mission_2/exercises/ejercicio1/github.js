@@ -40,5 +40,20 @@ console.log("Nombre del issue: " + issue.title)
 console.log("Comentarios totales en el issue: " + issue.numberOfComments)
 console.log(issue.getGeneralInfo())
 
+const pullRequest = {
+  title: "Haciendo correcciones",
+  branchName: "Default",
+  dateCreated: "16/04/2022",
+  status: "open",
+  repositoryNameAssociated: "BlogLaunchX",
+  getStatus: function(){
+    return this.status
+  },
+  getTitleAndBranch: function(){
+    return this.title + this.branchName
+  }
+}
 
+console.log("Titulo del PR: " + pullRequest.title)
+console.log("Status del PR: " + pullRequest.status)
    
