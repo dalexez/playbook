@@ -18,3 +18,5 @@ const repo = {
    console.log("Nombre del repo:" + repo.name)
    console.log("Issues totales: " + repo.getTotalIssues())
    console.log(repo.getGeneralInfo())
+
+   
