@@ -7,4 +7,5 @@ Proyectos desarrollados en la semana 3:
 |`fizzbuzz`|1, 2, 3|[Link al repo](https://github.com/dalexez/FizzBuzz.git)|
 |`PR`|4|[Link al repo](https://github.com/dalexez/fizzbuzz-1.git)|
 |`Code Challenge`|5|[Link al repo](https://github.com/dalexez/codeChallengeLaunchXNodeJs.git)|
-|`Trello JS Fork`|6, 7|[Link al repo](https://github.com/dalexez/trello.git)|
+|`Trello`|6|[Link al repo](https://github.com/dalexez/playbook/tree/main/weekly_mission_4/Trello)|
+|`Trello JS Fork`|7|[Link al repo](https://github.com/dalexez/trello.git)|
